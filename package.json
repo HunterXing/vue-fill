@@ -12,8 +12,8 @@
   },
   "homepage": "https://github.com/HunterXing/vue-fill",
   "keywords": [
-    "matrix",
-    "animation"
+    "directive",
+    "vue"
   ],
   "repository": {
     "type": "git",
