@@ -1,6 +1,6 @@
 {
   "name": "vue-fill",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "初始版本 vue-fill",
   "main": "vue-fill.js",
   "scripts": {
