@@ -1,0 +1,23 @@
+{
+  "name": "vue-fill",
+  "version": "1.0.2",
+  "description": "初始版本 vue-fill",
+  "main": "vue-fill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xingheng",
+  "bugs": {
+    "url": "https://github.com/HunterXing/vue-fill/issues"
+  },
+  "homepage": "https://github.com/HunterXing/vue-fill",
+  "keywords": [
+    "matrix",
+    "animation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HunterXing/vue-fill"
+  },
+  "license": "ISC"
+}
