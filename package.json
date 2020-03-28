@@ -1,7 +1,7 @@
 {
   "name": "vue-fill",
   "version": "1.0.4",
-  "description": "初始版本 vue-fill",
+  "description": "used by text filled and image filled on vue.js2.x",
   "main": "vue-fill.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
