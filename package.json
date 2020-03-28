@@ -1,6 +1,6 @@
 {
   "name": "vue-fill",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "used by text filled and image filled on vue.js2.x",
   "main": "vue-fill.js",
   "scripts": {
